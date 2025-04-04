@@ -1,0 +1,16 @@
+{
+    "2024-08-31": {
+        "temperature": 27.0,
+        "humidity": 71.0,
+        "wind_speed": 40.0,
+        "rainfall": 960.0,
+        "uv_index": 25.0
+    },
+    "2024-12-12": {
+        "temperature": 24.0,
+        "humidity": 76.0,
+        "wind_speed": 39.0,
+        "rainfall": 1001.0,
+        "uv_index": 25.0
+    }
+}
